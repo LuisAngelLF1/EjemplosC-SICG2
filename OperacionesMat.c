@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//biblioteca
 
 int main () {
     char desicion='s';
