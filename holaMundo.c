@@ -1,3 +1,6 @@
+/*author: Luis López
+Impresion por consola de hola mundo
+*/
 #include <stdio.h>
 
 int main () {
