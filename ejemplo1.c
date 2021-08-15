@@ -1,3 +1,6 @@
+/*author: Luis López
+programa que recorre String e imprimer sus caracteres
+*/
 #include <stdio.h>
 
 int main(int argc, char **argv)

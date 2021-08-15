@@ -1,3 +1,6 @@
+/*author: Luis López
+Programa que realiza operaciones aritmeticas basicas
+*/
 #include <stdio.h>
 
 int main () {
@@ -33,7 +36,7 @@ int main () {
         }
         printf("El resultado es: %lf \n",resultado);
         printf("Escriba s si desea realizar otra operacion: ");
-        scanf("%c",&desicion);
+        scanf("%s",&desicion);
     }
     
     return 0;
